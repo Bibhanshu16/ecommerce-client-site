@@ -1,0 +1,8 @@
+# Ignore node modules and env files
+client/node_modules
+server/node_modules
+**/.env
+dist
+build
+server/uploads/
+client/public
